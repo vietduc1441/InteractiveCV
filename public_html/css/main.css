@@ -1,0 +1,43 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.cvBackground{
+    fill: black;
+}
+.countrypath {
+  fill: #CED8B6;
+  stroke: #fff;
+  stroke-width: 0.5px;
+}
+.mapBackground{
+    fill: #92B4CA;
+}
+.experBackground{
+    fill: white;
+}
+.defaultText{
+    color: greenyellow;
+    text-align:center;
+    text-decoration:underline;
+}
+
+.periodBar{
+    fill: white;
+}
+.experienceBar{
+    
+}
+.jobTitle{
+
+}
+.MainContentBg{
+    fill: white;
+}
+
+
+
+
+
+
